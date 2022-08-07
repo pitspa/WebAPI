@@ -4,6 +4,7 @@ import scipy.stats
 import matplotlib.pyplot as mp
 
 N = 1000 # number of variables
+ids = numpy.arange(0,N,1)
 
 # generate a random correlation matrix
 
